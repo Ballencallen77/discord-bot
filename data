@@ -1,1 +1,29 @@
-
+{
+  "nextId": 1003,
+  "orders": [
+    {
+      "id": "B-1001",
+      "artikel": "ADV",
+      "menge": 30,
+      "zugewiesenAn": "A",
+      "angefordertVon": "b",
+      "abteilungGrund": "",
+      "status": "Abgelehnt",
+      "erstelltAm": "2026-10-06T20:23:17.143Z",
+      "messageId": "1557126112864247981",
+      "channelId": "1127990101067169862"
+    },
+    {
+      "id": "B-1002",
+      "artikel": "adv",
+      "menge": 10,
+      "zugewiesenAn": "a",
+      "angefordertVon": "A",
+      "abteilungGrund": "",
+      "status": "Bestätigt",
+      "erstelltAm": "2026-10-06T20:30:37.894Z",
+      "messageId": "1557127961340018853",
+      "channelId": "1127990101067169862"
+    }
+  ]
+}
