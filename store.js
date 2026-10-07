@@ -1,4 +1,3 @@
-```js
 // =====================================================
 // JSON-SPEICHER FÜR BESTELLUNGEN
 // =====================================================
@@ -168,14 +167,6 @@ function createOrder(
     anmeldungen:
       [],
 
-
-    zugewiesenAn:
-
-      order.zugewiesenAn,
-
-    angefordertVon:
-
-      order.angefordertVon,
 
     abteilungGrund:
 
@@ -545,4 +536,3 @@ module.exports = {
 
   addSignup,
 };
-```
